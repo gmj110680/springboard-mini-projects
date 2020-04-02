@@ -1,4 +1,4 @@
-# Springboard Mini Project Portfolio
+# Springboard Mini-Project Portfolio
 
 I completed a number of mini-projects as part of my Springboard data science curriculum.  The mini-projects were designed as guided Jupyter notebooks with interactive exercises for the user to complete.
 
